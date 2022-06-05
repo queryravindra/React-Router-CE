@@ -10,4 +10,4 @@ Structure:
 - Dynamic and Nested routes
 - Route Parameters
 - Lazy Loading
-- Authenticationggg
+- Authentication
